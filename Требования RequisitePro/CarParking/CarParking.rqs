@@ -1,0 +1,20 @@
+
+[Project]
+Owner=admin
+Name=CarParking
+GUID={AAEE54EB-95F4-4E09-BD6A-51F4CE2B9962}
+CQWebURL=
+isTrackChangesAllowed=1
+Description=
+Owner Key=1
+Revision number=1.0002
+Prefix=
+NbrRequirements=0
+Directory=C:\Users\Nick\Desktop\CarParking\CarParking.rqs
+Key=1
+Revision=1.0005
+
+[Application]
+Data file version=1.0040
+Program Version=9.100.0.1
+
